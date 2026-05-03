@@ -3,9 +3,10 @@
 <p align="center">
   🎓 Software Engineering student at <strong>University of Brasília (UnB)</strong>  
   <br/>
-  💻 Fullstack Developer | 🤖 AI & ML Enthusiast
+  💻 Backend Developer | 🤖 AI & ML Enthusiast
   <br/>
   🚀 Always learning new technologies and improving my skills
+</p>
 
   ---
 
